@@ -8,6 +8,3 @@ I'm Orr, a software engineer and individual contributor at Lemonade, currently w
 * **Programming**: `python`, `java`, `c#`
 * **Frameworks**: `fastapi`, `flask`, `uwsgi`, `gunicorn`, `spring-boot`, `spring`, `dotnet-core`, `airflow`
 * **Infrastructure**: `docker`, `kubernetes`, `jenkins`, `pulumi`, `aws`, `nginx`, `elasticsearch`, `solr`, `postgres`, `dynamodb`, `snowflake`
-
-### 🏃 Hobbies
-![Mountains Bottom](https://raw.githubusercontent.com/orrshilon/orrshilon/master/bottom.jpg "Mountains bottom")
